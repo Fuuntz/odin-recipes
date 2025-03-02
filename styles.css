@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#index {
+    background-color: antiquewhite;
+    color: #814e3e;
+}
+
+#pesto {
+    background-color: #94a24c;
+}
+
+#salmon {
+    background-color: #eeb58a;
+}
+
+#avocado {
+    background-color: #c7d679;
+}
